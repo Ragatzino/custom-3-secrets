@@ -1,0 +1,15 @@
+{
+    "title": "Jouez gratuitement",
+    "header title": "3 Secrets : True stories",
+    "random card": "Lancer une partie aléatoire ⚂ ",
+    "description": {
+      "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
+      "part2": "Switch language between english and german using buttons above."
+    },
+    "explanation":"19 cartes disponibles",
+    "have-fun": "J'espère que ça vous a plu",
+    "contribute": "Demandez l'ajout de carte à antoinebrunetti@gmail.com",
+    "my-website":"3 Secrets",
+    "guess":"devinez",
+    "solution":"solution"
+  }
